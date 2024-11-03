@@ -8,25 +8,26 @@ I'm a .Net Full Stack Developer
 
 * C# (Expert)
 * .NET Core (Expert)
-* ASP.NET Core (Proficient)
-* SQL (Proficient)
-* JavaScript (Intermediate)
+* ASP.NET Core (Expert)
+* SQL (Expert)
+* JavaScript (Expert)
+* Python (Expert)
 
 **Frameworks & Libraries:**
 
-* Entity Framework Core (Proficient)
-* React (Intermediate)
-* Bootstrap (Intermediate)
+* Entity Framework Core (Expert)
+* React (Expert)
+* Bootstrap (Proficient)
 
 **Cloud Technologies:**
 
 * Azure (Proficient)
-* AWS (Intermediate)
+* AWS (Proficient)
 
 **Other Technologies:**
 
-* Docker (Proficient)
-* Kubernetes (Intermediate)
+* Docker (Expert)
+* Kubernetes (Proficient)
 * Git (Expert)
 
 **Additional Skills:**
